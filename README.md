@@ -1,6 +1,6 @@
 # Julia Tutorial
 
-## Julia Tutorial Folowing [Julia Data Science by Jose Storopoli, Rik Huijzer, Lazaro Alonso](https://juliadatascience.io)
+## Julia Tutorial Folowing [*Julia Data Science* by Jose Storopoli, Rik Huijzer, Lazaro Alonso](https://juliadatascience.io)
 
 ### It contains topics such as:
 * Basic Syntax
